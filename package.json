@@ -1,0 +1,20 @@
+{
+	"name": "coinfantasy",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@thirdweb-dev/sdk": "^4.0.99",
+		"@tokenbound/sdk": "^0.5.4",
+		"dotenv": "^16.4.5",
+		"ethers": "^5.7.2",
+		"express": "^4.19.2",
+		"node-fetch": "^2"
+	}
+}
